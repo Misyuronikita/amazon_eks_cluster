@@ -1,4 +1,4 @@
-# Task 2: Create an Amazon EKS Cluster and install kubectl using Terraform
+# Task 3: Create an Amazon EKS Cluster and install kubectl using Terraform
 
 ## <center>Lab Details</center>
 1. This lab provides a step-by-step guide on how to create an EKS Cluster using Terraform and install kubectl to obtain the cluster IP address.
